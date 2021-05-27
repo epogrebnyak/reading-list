@@ -11,7 +11,7 @@ March 24, 2019](https://www.gsb.stanford.edu/faculty-research/working-papers/mac
 
 ## ML in finance
 
-- [Marcos Lopez de Prado](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3365271 https://www.quantresearch.org/)
+- [Marcos Lopez de Prado](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3365271), <https://www.quantresearch.org>
 
 - [Dixon, Halperin, Belokon](https://github.com/mfrdixon/ML_Finance_Codes)
 
