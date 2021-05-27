@@ -17,11 +17,11 @@ March 24, 2019](https://www.gsb.stanford.edu/faculty-research/working-papers/mac
 
 ## Books
 
-- "Causal Inference: The Mixtape" was written by Scott Cunningham (бесплатная)
-- Will Kurt “Bayesian Statistics the Fun Way” - https://nostarch.com/learnbayes (платная)
+- Scott Cunningham. [Causal Inference: The Mixtape](https://mixtape.scunning.com/).
+- Will Kurt. [Bayesian Statistics the Fun Way](https://nostarch.com/learnbayes), платная.
 - Richard McElrath: https://www.youtube.com/watch?v=h5aPo5wXN8E
-- Judea Pearl https://en.wikipedia.org/wiki/The_Book_of_Why
-- Think Bayes: Bayesian Statistics in Python by Allen B. Downey или другая этого автора
+- Judea Pearl. [The_Book_of_Why](https://en.wikipedia.org/wiki/The_Book_of_Why).
+- Allen B. Downey. Think Bayes: Bayesian Statistics in Python или другая этого автора
 
 ## Next
 
