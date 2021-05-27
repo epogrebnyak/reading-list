@@ -4,8 +4,7 @@ Machine learning (ML), econometrics, finance
 
 ## Econometrics vs ML
 
-- [Varian, Hal R. 2014. "Big Data: New Tricks for Econometrics." Journal of Economic Perspectives, 28 (2): 3-28.]
-(https://www.aeaweb.org/articles?id=10.1257/jep.28.2.3), [еще ссылка](https://people.ischool.berkeley.edu/~hal/Papers/2013/ml.pdf)
+- [Varian, Hal R. 2014. "Big Data: New Tricks for Econometrics." Journal of Economic Perspectives, 28 (2): 3-28.](https://www.aeaweb.org/articles?id=10.1257/jep.28.2.3), [еще ссылка](https://people.ischool.berkeley.edu/~hal/Papers/2013/ml.pdf)
 
 - [Machine Learning Methods Economists Should Know About by Susan Athey and Guido W. Imbens
 March 24, 2019](https://www.gsb.stanford.edu/faculty-research/working-papers/machine-learning-methods-economists-should-know-about)
