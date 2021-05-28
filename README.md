@@ -17,6 +17,7 @@ March 24, 2019](https://www.gsb.stanford.edu/faculty-research/working-papers/mac
 
 - [Probability Theory: The Logic of Science by E.T. Jaynes](https://bayes.wustl.edu/etj/prob/book.pdf), by chapter reading of 
 by [Aubrey Clayton](https://www.youtube.com/playlist?list=PL9v9IXDsJkktefQzX39wC2YG07vw7DsQ_)
+- [stat101](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo) and  Joe Blitzstein/Jessica Hwang <http://probabilitybook.net>
 
 ## Books
 
