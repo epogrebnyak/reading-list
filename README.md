@@ -36,4 +36,4 @@ by [Aubrey Clayton](https://www.youtube.com/playlist?list=PL9v9IXDsJkktefQzX39wC
 - [Causal Data Science CDSM20 – Keynotes](https://causalscience.netlify.app/programme/keynote-videos/)
 - [Book list by Dimitri Bianco](https://www.youtube.com/watch?v=pOThNItNuqE)
 - [trics.me](https://trics.me/)
-
+- https://www.amazon.com/Bernoullis-Fallacy-Statistical-Illogic-Science/dp/0231199945
