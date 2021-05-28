@@ -15,6 +15,11 @@ March 24, 2019](https://www.gsb.stanford.edu/faculty-research/working-papers/mac
 
 - [Dixon, Halperin, Belokon](https://github.com/mfrdixon/ML_Finance_Codes)
 
+## Probability 
+
+- [Probability Theory: The Logic of Science by E.T. Jaynes](https://bayes.wustl.edu/etj/prob/book.pdf), by chapter reading of 
+by [Aubrey Clayton](https://www.youtube.com/playlist?list=PL9v9IXDsJkktefQzX39wC2YG07vw7DsQ_)
+
 ## Books
 
 - Scott Cunningham. [Causal Inference: The Mixtape](https://mixtape.scunning.com/).
