@@ -7,6 +7,12 @@ Motivating questions:
 - How one can update skills and knowledge if you took that class 20 years ago? 
 - What can economists and econometricians learn form other fields?
 
+## Watching now (2021-05-21)
+
+- [Aubrey Clayton](https://www.youtube.com/playlist?list=PL9v9IXDsJkktefQzX39wC2YG07vw7DsQ_) - reading of The Logic of Science by E.T. Jaynes 
+- [Paul Hünermund. Causal Inference in Machine Learning and AI](https://twitter.com/PHuenermund/status/1258480147407257605) 
+- [Sean Taylor keynote Causal Data Science CDSM20](https://www.youtube.com/watch?v=oTeygIetj34)
+
 ## Econometrics vs ML
 
 - [Varian, Hal R. 2014. Big Data: New Tricks for Econometrics. Journal of Economic Perspectives, 28 (2): 3-28.](https://www.aeaweb.org/articles?id=10.1257/jep.28.2.3)
