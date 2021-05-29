@@ -2,27 +2,6 @@
 
 Machine learning (ML), econometrics and finance
 
-## Directions of survey
-
-Review:
-
-- probability foundations
-- frequentist vs bayesian
-- operations research 
-- [terminology](glossary.rst)
-
-Interplay:
-
-- econometrics vs ML vs deep learning
-- causal inference, interpretable models
-- probabilistic programming
-- reinforcement learning (RL)
-
-Applications:
-
-- applications in finance
-- 'getting where' (popular literature) 
-
 ## Econometrics vs ML
 
 - [Varian, Hal R. 2014. Big Data: New Tricks for Econometrics. Journal of Economic Perspectives, 28 (2): 3-28.](https://www.aeaweb.org/articles?id=10.1257/jep.28.2.3)
