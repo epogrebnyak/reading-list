@@ -21,6 +21,9 @@ Machine learning (ML), econometrics and finance
 - [Machine Learning Methods Economists Should Know About by Susan Athey and Guido W. Imbens
 March 24, 2019](https://www.gsb.stanford.edu/faculty-research/working-papers/machine-learning-methods-economists-should-know-about)
 
+## Causal inference
+
+- [Paul Hünermund. Causal Inference in Machine Learning and AI (with lessons for econometrics)](https://twitter.com/PHuenermund/status/1258480147407257605)
 
 ## Probability 
 
