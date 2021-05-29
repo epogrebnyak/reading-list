@@ -4,13 +4,22 @@ Machine learning (ML), econometrics and finance
 
 ## Directions of survey
 
-- econometrics vs ML vs deep learning
+Review:
+
+- probability foundations
 - frequentist vs bayesian
+- operations research 
+- terminology
+
+Interplay:
+
+- econometrics vs ML vs deep learning
 - causal inference, interpretable models
-- operations research models
-- probabilistic programming (STAN, etc)
+- probabilistic programming
 - reinforcement learning (RL)
-- probability foundations, terminology
+
+Applications:
+
 - applications in finance
 - 'getting where' (popular literature) 
 
