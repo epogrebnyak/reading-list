@@ -1,4 +1,4 @@
-# reading-list
+# Reading list in ML and econometrics
 
 Machine learning (ML), econometrics and finance. 
 
