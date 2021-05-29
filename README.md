@@ -1,10 +1,11 @@
 # Reading list in machine learning and econometrics
 
-Is econometrics pushed off by machine learning? Why?
-Once you learned some basic methods in Econometrics I class, what is there to learn next? 
-How one can update skills and knowledge if you took that class 20 years ago? 
-What if you are to teach such class on a new level?
-What can economists and econometricians learn form other fields?
+Motivating questions:
+
+- Is econometrics pushed off by machine learning? Why?
+- Once you learned some basic methods in Econometrics I class, what is there to learn next? 
+- How one can update skills and knowledge if you took that class 20 years ago? 
+- What can economists and econometricians learn form other fields?
 
 ## Econometrics vs ML
 
