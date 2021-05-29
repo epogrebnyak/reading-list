@@ -1,6 +1,6 @@
 # reading-list
 
-Machine learning (ML), econometrics and finance
+Machine learning (ML), econometrics and finance. 
 
 ## Econometrics vs ML
 
@@ -27,6 +27,10 @@ March 24, 2019](https://www.gsb.stanford.edu/faculty-research/working-papers/mac
 - Richard McElrath. [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking), [video series](https://www.youtube.com/watch?v=h5aPo5wXN8E)
 - Judea Pearl. [The Book of Why](https://en.wikipedia.org/wiki/The_Book_of_Why).
 - Allen B. Downey. [Think Bayes](http://allendowney.github.io/ThinkBayes2/index.html) или [другая этого автора](https://greenteapress.com/wp/)
+
+# Drafts
+
+See tentative topics list [here](topics.md).
 
 ## Time series (draft)
 
