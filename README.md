@@ -9,7 +9,7 @@ Review:
 - probability foundations
 - frequentist vs bayesian
 - operations research 
-- terminology
+- [terminology](glossary.rst)
 
 Interplay:
 
